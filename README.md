@@ -12,23 +12,23 @@ The table below provides a quick description of the differences in ride-sharing 
 
 
 ![Ride Summary](/Analysis/Ride_summary.png)
-*Ride Summary*
+
 <p>&nbsp;</p>
 
 ![Ride Summary](/Analysis/Fig1.png)
-*Pyber 2019 Data*
+
 <p>&nbsp;</p>
 
 ![Ride Summary](/Analysis/Fig5.png)
-*Total Fares*
+
 <p>&nbsp;</p>
 
 ![Ride Summary](/Analysis/Fig6.png)
-*Total Rides*
+
 <p>&nbsp;</p>
 
 ![Ride Summary](/Analysis/Fig7.png)
-*Total Drivers*
+
 
 ### Seasonal Variability in Ride Data
 <p>&nbsp;</p>
