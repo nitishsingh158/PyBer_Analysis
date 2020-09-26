@@ -11,24 +11,30 @@ The table below provides a quick description of the differences in ride-sharing 
 4. Rural cities have only 2.6% of the total driver population with an average fare per driver of $$8.06 which is 12X the fare per driver of urban cities. This provides PyBer the opportunity to increase driver support in rural areas and further increase its revenue, invest in rural areas will provide more growth opportunity compared to the same investment in urban cities. 
 
 
-![Ride Summary](/Analysis/Ride_summary.png)*Ride Summary*
+![Ride Summary](/Analysis/Ride_summary.png)
+*Ride Summary*
 <p>&nbsp;</p>
 
-![Ride Summary](/Analysis/Fig1.png)*Pyber 2019 Data*
+![Ride Summary](/Analysis/Fig1.png)
+*Pyber 2019 Data*
 <p>&nbsp;</p>
 
-![Ride Summary](/Analysis/Fig5.png)*Total Fares*
+![Ride Summary](/Analysis/Fig5.png)
+*Total Fares*
 <p>&nbsp;</p>
 
-![Ride Summary](/Analysis/Fig6.png)*Total Rides*
+![Ride Summary](/Analysis/Fig6.png)
+*Total Rides*
 <p>&nbsp;</p>
 
-![Ride Summary](/Analysis/Fig7.png)*Total Drivers*
+![Ride Summary](/Analysis/Fig7.png)
+*Total Drivers*
 
 ### Seasonal Variability in Ride Data
 <p>&nbsp;</p>
 
-![Ride Summary](/Analysis/PyBer_fare_summary.png)*PyBer Fare Summary*
+![Ride Summary](/Analysis/PyBer_fare_summary.png)
+*PyBer Fare Summary*
 
 ### Summary
 Based on the analysis we have the following recommendations
