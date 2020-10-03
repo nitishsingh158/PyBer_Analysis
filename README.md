@@ -28,7 +28,7 @@ The table below provides a quick description of the differences in ride-sharing 
 <p>&nbsp;</p>
 
 ![Ride Summary](/Analysis/Fig7.png)
-
+    
 
 ### Seasonal Variability in Ride Data
 <p>&nbsp;</p>
@@ -40,5 +40,5 @@ The table below provides a quick description of the differences in ride-sharing 
 Based on the analysis we have the following recommendations
 1. Increase driver support in rural areas to capitalize on higher revenue per driver in rural areas. 
 2. Increase surge pricing in urban areas to increase fare per driver. 
-3. Analyse further analysis needs to understand the overall decline of fares for each city type in March. 
-4. Analyse further the uptick in total revenues for Suburban cities in the middle of April. 
+3. Further analyse the overall decline of fares for each city type in March. 
+4. Further analyse the uptick in total revenues for Suburban cities in the middle of April. 
